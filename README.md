@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Madan Dhungel</h1>
 <h3 align="center">A passionate DevOps Engineer from Nepal.</h3>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
