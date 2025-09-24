@@ -1,6 +1,6 @@
 <!-- Header Section with Animation -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%" />
 </p>
 
 <h1 align="center">
@@ -8,7 +8,7 @@
 </h1>
 
 <h3 align="center">
-  🚀 A passionate DevOps Engineer from Nepal 🌏
+  🚀 A passionate DevOps Engineer from Nepal &nbsp; &nbsp; <img src="https://flagcdn.com/w20/np.png" width="25"/>
 </h3>
 
 <!-- Tech Stack Section -->
