@@ -10,7 +10,7 @@
 <h3 align="center">
   🚀 A passionate DevOps Engineer from Nepal 🌏
 </h3>
----
+
 <!-- Tech Stack Section -->
 <h3 align="center">⚡ Tech Stack</h3>
 
@@ -61,7 +61,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="45" height="45"/>
   </a>
 </p>
----
 <!-- Footer -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%" />
