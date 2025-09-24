@@ -1,8 +1,3 @@
-## Hi there 👋
-
-<!--
-**MadanDhungel/MadanDhungel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <h1 align="center">Hi 👋, I'm Madan Dhungel</h1>
 <h3 align="center">A passionate DevOps Engineer from Nepal.</h3>
 
